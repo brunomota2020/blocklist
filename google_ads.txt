@@ -26,3 +26,6 @@ google-rank.org
 googleanalytcs.com
 advertising-api-eu.amazon.com
 browser.sentry-cdn.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
