@@ -24,3 +24,5 @@ attributiontrackingga.googlecode.com
 google-pr7.de
 google-rank.org
 googleanalytcs.com
+advertising-api-eu.amazon.com
+browser.sentry-cdn.com
